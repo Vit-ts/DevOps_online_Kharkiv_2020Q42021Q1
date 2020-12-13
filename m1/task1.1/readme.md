@@ -32,7 +32,7 @@
 
 > ![GitHub Logo](screens/9-11.png)
 
-## 12. Created [index.html](index.html) empty file. Commited.
+## 12. Created [index.html](https://github.com/Vit-ts/DevOps_online_Kharkiv_2020Q42021Q1/blob/develop/m1/task1.1/index.html) empty file. Commited.
 
 > ![GitHub Logo](screens/12.png)
 
@@ -42,7 +42,7 @@
 
 > ![GitHub Logo](screens/13.png)
 
-## 14. Changed my [index.html](index.html). Added an [image](images/devops.png) source inside it. Committed.
+## 14. Changed my [index.html](https://github.com/Vit-ts/DevOps_online_Kharkiv_2020Q42021Q1/blob/images/m1/task1.1/index.html). Added an [image](images/devops.png) source inside it. Committed.
 
 > ![GitHub Logo](screens/14.png)
 
@@ -54,7 +54,7 @@
 
 > ![GitHub Logo](screens/16.png)
 
-## 17. Changed my [index.html](index.html). Committed.
+## 17. Changed my [index.html](https://github.com/Vit-ts/DevOps_online_Kharkiv_2020Q42021Q1/blob/styles/m1/task1.1/index.html). Committed.
 
 > ![GitHub Logo](screens/17.png)
 
@@ -69,7 +69,7 @@
 
 > ![GitHub Logo](screens/19_2.png)
 
-- ## Resolved conflict
+- ## Resolved conflict ([index.html](https://github.com/Vit-ts/DevOps_online_Kharkiv_2020Q42021Q1/blob/master/m1/task1.1/index.html))
 
 > ![GitHub Logo](screens/resolve_conflict.png)
 
@@ -95,7 +95,7 @@
     
 > ![GitHub Logo](screens/gitlog_3.png)
 
-## 23. Pushed all my changes with allyour branches toorigin(git push origin --all).
+## 23. Pushed all my changes with all my branches to origin (git push origin --all).
 
 > ![GitHub Logo](screens/23.png)
 
@@ -108,11 +108,11 @@
 > <img src="screens/25.png" width="1300">
 
 
-## 26. Added [task1.1_GIT.txt](DevOps_online_Kharkiv_2020Q42021Q1/m1/task1.1_GIT.txt) to my local repo in then Pushed it in GitHub repo.
+## 26. Added [task1.1_GIT.txt](https://github.com/Vit-ts/DevOps_online_Kharkiv_2020Q42021Q1/blob/master/m1/task1.1_GIT.txt) to my local repo in then Pushed it in GitHub repo.
 
 > ![GitHub Logo](screens/26.png)
 
-## 27. Made file [readme.md](readme.md) in folder task1.1and described results of my work with Git.
+## 27. Made file [readme.md](readme.md) in folder task1.1 and described results of my work with Git.
 
 > ![GitHub Logo](screens/27.png)
 
