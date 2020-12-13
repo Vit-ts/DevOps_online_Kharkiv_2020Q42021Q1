@@ -1,0 +1,17 @@
+9a7bb93 HEAD@{0}: reset: moving to HEAD~1
+bfd0f29 HEAD@{1}: commit: added task1.1_GIT.txt
+9a7bb93 HEAD@{2}: merge develop: Fast-forward
+0e99721 HEAD@{3}: checkout: moving from develop to master
+9a7bb93 HEAD@{4}: commit (merge): Merge branch 'styles' into develop
+d8de405 HEAD@{5}: merge images: Fast-forward
+7e29a40 HEAD@{6}: checkout: moving from styles to develop
+679760c HEAD@{7}: commit: changed index.html (develop branch)
+3575791 HEAD@{8}: commit: add stales folder with styles source inside it
+7e29a40 HEAD@{9}: checkout: moving from develop to styles
+7e29a40 HEAD@{10}: checkout: moving from images to develop
+d8de405 HEAD@{11}: commit: changed index.html
+528cd76 HEAD@{12}: commit: created a folder images
+7e29a40 HEAD@{13}: checkout: moving from develop to images
+7e29a40 HEAD@{14}: commit: created index.html
+0e99721 HEAD@{15}: checkout: moving from master to develop
+0e99721 HEAD@{16}: commit (initial): init commit
