@@ -174,15 +174,38 @@ Table
 ## 3. Work with CLI through VBoxManage.
 ## 3.1 Run the cmd.exe command line.
 ## 3.2 Examine the purpose and execute the basic commands of VBoxManage list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm [1, ch.8]. 
-- Showvminfo - The showvminfo command shows information about a particular virtual machine. 
-- createvm - The VBoxManage createvm command creates a new XML virtual machine definition file. startvm - This command starts a virtual machine that is currently in the Powered Off or Saved states.
+- Showvminfo - The showvminfo command shows information about a particular virtual machine. В примере ниже приведеда часть информации о VM1
+
+> ![GitHub Logo](screens/3.png)
+
+- createvm - The VBoxManage createvm command creates a new XML virtual machine definition file. startvm - This command starts a virtual machine that is currently in the Powered Off or Saved states. В примере создаем новую XML VM3 с типом Ubunty_64 и регистрируем виртуальную машину.
+
+> ![GitHub Logo](screens/3_1.png)
+
 - modifyvm - This command changes the properties of a registered virtual machine which is not running. Most of the properties that this command makes available correspond to the VM settings that Oracle VM VirtualBox graphical user interface displays in each VM's Settings dialog.
-- Startvm - This command starts a virtual machine that is currently in the Powered Off or Saved states.
+В примере ниже для машины VM1 меняем количество ядер, оперативную память, откючаем аудио и usb. 
+
+> ![GitHub Logo](screens/3_2.png)
+
+- Startvm - This command starts a virtual machine that is currently in the Powered Off or Saved states. В примере ниже запускаем VM2 в режиме с GUI.
+
+> ![GitHub Logo](screens/3_3.png)
+
 - clonevm - Create a clone of an existing Oracle VM VirtualBox virtual machine.
 snapshot - Manage Oracle VM VirtualBox virtual machine snapshots.
+В примере ниже создаем полную копию(clone) VM1.
+
+> ![GitHub Logo](screens/3_4.png)
+
 - controlvm - The controlvm subcommand enables you to change the state of a virtual machine that is currently running.
+В примерере ниже ставим на паузу, возобновляем и выключаем VM2.
 
+> ![GitHub Logo](screens/3_5.png)
 
+## PART 3. WORK WITH VAGRANT
+
+## 1. Download the required version of Vagrant according to the instructions [5] and according to the host operating system (OS) installed on the student's workplace. For Windows, the file may be called, for example, vagrant_2.2.0_x86_64.msi. Install Vagrant. Check the path to Vagrant bin in the Path variable (My computer -> Properties -> Advanced system settings -> Advanced -> Environment Variables).
+## 2. Run the powershell. Create a folder "student name" (in English). In this example, create a folder vagrant_test. Next, go to the folder.
 
 
 
