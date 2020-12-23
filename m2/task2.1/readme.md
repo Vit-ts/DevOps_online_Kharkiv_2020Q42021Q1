@@ -224,9 +224,37 @@ snapshot - Manage Oracle VM VirtualBox virtual machine snapshots.
 ## 5. Connect to the VM using the program MobaXterm, using SSH, IP address and port listed above (127.0.0.1:2222). By default, login - vagrant and password are also vagrant
 
 > ![GitHub Logo](screens/4_4.png)
+> ![GitHub Logo](screens/4_5.png)
 
 ## 6. Record the date and time by executing the date command
 
+> ![GitHub Logo](screens/4_6.png)
+
 ## 7. Stop and delete the created VM.
-## 8. Create your own Vagrant box [7]
-## 9. (optional) Create a test environment from a few servers. Servers' parameters are chosen independently by the student.
+
+> ![GitHub Logo](screens/4_7.png)
+
+## 8. Create your own Vagrant box
+
+1) created directory VagrantBox
+
+> ![GitHub Logo](screens/5.png)
+
+2) Делаем vagrant init ubuntu/trusty64 и запускаю VM
+
+> ![GitHub Logo](screens/5_1.png)
+> ![GitHub Logo](screens/5_3.png)
+
+И мы можем убедится, что VM запустилась посмотрев в VirtualBox.
+
+> ![GitHub Logo](screens/5_2.png)
+
+А также проверяем через MobaXterm
+
+> ![GitHub Logo](screens/5_5.png)
+
+3) Проверяем команды status, suspend, halt
+
+> ![GitHub Logo](screens/5_4.png)
+> ![GitHub Logo](screens/5_6.png)
+> ![GitHub Logo](screens/5_7.png)
