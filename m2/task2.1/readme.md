@@ -9,7 +9,7 @@ Currently the most popular hypervisors are:
 - KVM; 
 - XenServer.
 
-## 2. Briefly describe the main differences of the most popular hypervisors.
+## 2. Briefly described the main differences of the most popular hypervisors.
 ### VMware Features:
 - VM File System: Clustered file system for VM;
 - Virtual SMP: Allows one virtual machine to use multiple physical processors at the same time;
@@ -55,7 +55,7 @@ Currently the most popular hypervisors are:
 
 > ![GitHub Logo](screens/1.2_2.png)
 
-## 1.3 Created VM1 and install Ubuntu. Set machine name "kanivets"
+## 1.3 Created VM1 and installed Ubuntu. Set machine name "kanivets"
 
 > ![GitHub Logo](screens/1.2_3.png)
 
@@ -109,7 +109,7 @@ Currently the most popular hypervisors are:
 
 > ![GitHub Logo](screens/1.4_7.png)
 
-## Detached the virtual machine from the group and delete the group if it is empty:
+## Detached the virtual machine from the group and deleted the group if it is empty:
 
 > VBoxManage modifyvm "kanivets" --groups ""
 
@@ -170,7 +170,7 @@ As a result, we get a tree-like system of images
 
 > ![GitHub Logo](screens/1.7_4.png)
 
-## 1.8 Export VM1. Save the *.ova file to disk. Import VM from *.ova file.
+## 1.8 Exported VM1. Save the *.ova file to disk. Imported VM from *.ova file.
 
 OVF is a cross-platform standard that allows you to create off-the-shelf virtual machines that can then be imported into a virtualizer like VirtualBox.
 Devices in OVF format can be displayed in two versions:
@@ -213,6 +213,7 @@ This USB setting allows you to connect any USB device.
 > ![GitHub Logo](screens/2.3_2.png)
 
 ## 2.4 Configured different network modes for VM1, VM2. Checked the connection between VM1, VM2, Host, Internet for different network modes. Used the ping command to do this. Made a table of possible connections.
+
 - Internal
 
 > ![GitHub Logo](screens/2.4.png)
@@ -228,7 +229,6 @@ This USB setting allows you to connect any USB device.
 - NATservice (аналогично как и NAT кроме VM1<>VM2)
 
 > ![GitHub Logo](screens/2.4_3.png)
-
 
 - Host–only
 
@@ -312,28 +312,26 @@ In the example below, we pause, resume, and turn off VM2.
 
 ## 8. Created my own Vagrant box.
 
-1) created directory VagrantBox.
+Created directory VagrantBox.
 
 > ![GitHub Logo](screens/5.png)
 
-2) Делаем vagrant init ubuntu/trusty64 и запускаю VM
+Created Vagrantfile
 
-> ![GitHub Logo](screens/5_1.png)
+> ![GitHub Logo](screens/6.png)
 
-> ![GitHub Logo](screens/5_3.png)
+Wrote config [Vagrantfile](/VagrantBox/Vagrantfile) and ran vagrant up to create two virtual machines.
 
-И мы можем убедится, что VM запустилась посмотрев в VirtualBox.
+ Connected to the VM1-Vagrant and VM2-Vagrant using the program MobaXterm, using SSH.
 
-> ![GitHub Logo](screens/5_2.png)
+> ![GitHub Logo](screens/7.png)
 
-А также проверяем через MobaXterm
+Checked machine settings in virtual box
 
-> ![GitHub Logo](screens/5_5.png)
+> ![GitHub Logo](screens/8.png)
 
-3) Проверяем команды status, suspend, halt
+> ![GitHub Logo](screens/9.png)
 
-> ![GitHub Logo](screens/5_4.png)
+Deleted VM
 
-> ![GitHub Logo](screens/5_6.png)
-
-> ![GitHub Logo](screens/5_7.png)
+> ![GitHub Logo](screens/10.png)
