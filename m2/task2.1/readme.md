@@ -58,27 +58,45 @@ Currently the most popular hypervisors are:
 ## 1.3 Created VM1 and install Ubuntu. Set machine name "kanivets"
 
 > ![GitHub Logo](screens/1.2_3.png)
+
 > ![GitHub Logo](screens/1.2_4.png)
+
 > ![GitHub Logo](screens/1.2_5.png)
+
 > ![GitHub Logo](screens/1.2_6.png)
+
 > ![GitHub Logo](screens/1.2_7.png)
+
 > ![GitHub Logo](screens/1.2_8.png)
+
 > ![GitHub Logo](screens/1.2_9.png)
+
 > ![GitHub Logo](screens/1.2_10.png)
+
 > ![GitHub Logo](screens/1.2_11.png)
+
 > ![GitHub Logo](screens/1.2_12.png)
+
 > ![GitHub Logo](screens/1.2_13.png)
+
 > ![GitHub Logo](screens/1.2_14.png)
+
 > ![GitHub Logo](screens/1.2_15.png)
+
 > ![GitHub Logo](screens/1.2_16.png)
+
 > ![GitHub Logo](screens/1.2_17.png)
 
 ## 1.4 Got acquainted with the possibilities of VM1 control -start, stop, reboot, save state, use Host key and keyboard shortcuts, etc.
 
 > ![GitHub Logo](screens/1.4_1.png)
+
 > ![GitHub Logo](screens/1.4_2.png)
+
 > ![GitHub Logo](screens/1.4_3.png)
+
 > ![GitHub Logo](screens/1.4_4.png)
+
 > ![GitHub Logo](screens/1.4_5.png)
 
 ## Created a group and assigned a virtual machine:
@@ -88,6 +106,7 @@ Currently the most popular hypervisors are:
 ## This command creates a "TestGroup" and joins the "kanivets" virtual machine to this group.
 
 > ![GitHub Logo](screens/1.4_6.png)
+
 > ![GitHub Logo](screens/1.4_7.png)
 
 ## Detached the virtual machine from the group and delete the group if it is empty:
@@ -114,6 +133,7 @@ Currently the most popular hypervisors are:
 ## 1.5 Cloned an existing VM1 by creating a VM2.
 
 > ![GitHub Logo](screens/1.5.png)
+
 > ![GitHub Logo](screens/1.5_1.png)
 
 ## 1.6 Created a group of two VM: VM1, VM2 and learn the functions related to groups.
@@ -161,13 +181,17 @@ To import a device in one of the above formats, just double-click the OVF / OVA 
 - export
 
 > ![GitHub Logo](screens/1.8.png)
+
 > ![GitHub Logo](screens/1.8_1.png)
+
 > ![GitHub Logo](screens/1.8_2.png)
 
 - import 
 
 > ![GitHub Logo](screens/1.8_3.png)
+
 > ![GitHub Logo](screens/1.8_4.png)
+
 > ![GitHub Logo](screens/1.8_5.png)
 
 ## 2. Configuration of virtual machines
@@ -177,12 +201,15 @@ To import a device in one of the above formats, just double-click the OVF / OVA 
 This USB setting allows you to connect any USB device.
 
 > ![GitHub Logo](screens/2.2.png)
+
 > ![GitHub Logo](screens/2.2_1.png)
 
 ## 2.3 Configured a shared folder to exchange data between the virtual machine and the host.
 
 > ![GitHub Logo](screens/2.3.png)
+
 > ![GitHub Logo](screens/2.3_1.png)
+
 > ![GitHub Logo](screens/2.3_2.png)
 
 ## 2.4 Configured different network modes for VM1, VM2. Checked the connection between VM1, VM2, Host, Internet for different network modes. Used the ping command to do this. Made a table of possible connections.
@@ -272,6 +299,7 @@ In the example below, we pause, resume, and turn off VM2.
 ## 5. Connected to the VM using the program MobaXterm, using SSH, IP address and port listed above (127.0.0.1:2222). By default, login - vagrant and password are also vagrant.
 
 > ![GitHub Logo](screens/4_4.png)
+
 > ![GitHub Logo](screens/4_5.png)
 
 ## 6. Recorded the date and time by executing the date command.
@@ -291,6 +319,7 @@ In the example below, we pause, resume, and turn off VM2.
 2) Делаем vagrant init ubuntu/trusty64 и запускаю VM
 
 > ![GitHub Logo](screens/5_1.png)
+
 > ![GitHub Logo](screens/5_3.png)
 
 И мы можем убедится, что VM запустилась посмотрев в VirtualBox.
@@ -304,5 +333,7 @@ In the example below, we pause, resume, and turn off VM2.
 3) Проверяем команды status, suspend, halt
 
 > ![GitHub Logo](screens/5_4.png)
+
 > ![GitHub Logo](screens/5_6.png)
+
 > ![GitHub Logo](screens/5_7.png)
