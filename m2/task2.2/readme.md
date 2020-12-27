@@ -6,6 +6,7 @@ There are three types of offers on the free tier:
 - always free;
 - 12 months free;
 - trials.
+
 At the "always tier", products such as Amazon DynamoDB 25 GB storage, AWS Lambda 1 million requests per month, Amazon Glacier 10 GB retrievable data, AWS CpdePipeline1 active container per month, and others are available for free.
 The "12 month free" tier includes Amazon EC2 750 hours per month, Amazon S3 5 GB standard storage, Amazon RDS 750 hours db.t2.micro database instance usage (with applicable DB engines) per month, AWS Data Pipeline 3 preliminary low frequency conditions and others.
 "Trials" include Amazon SageMaker 250 hours of notebook usage per t2.medium instance, Amazon Redshift 2 months, and more.
