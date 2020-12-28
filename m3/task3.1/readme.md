@@ -2,14 +2,34 @@
 
 ## PART 1
 
-## 1.Download MySQL server for your OS on VM.
+## 1.Download MySQL server for your OS on VM and Install MySQL server on VM.
 
-|<img src="screens/1.png">|
+#### Поднимаем виртуальную машину на которой будем устанавливать MySQL server
+
+|<img src="screens/1_0.png">|
 |:--:|
-|<b>Img. 1.1 - Я сделал чтото особенное и поэтому мне нужно это исправить сейчасже понтя бдлы вм</b>|
+|<b>Img. 1.1 - Окно PowerShell с поднятием виртуальной машины</b>|
 
+#### Посмотрит что произошло в VirtualBox
 
-## 2.Install MySQL server on VM.
+|<img src="screens/1_1.png">|
+|:--:|
+|<b>Img. 1.2 - Поднятый сервер в отображается в окне VirtualBox</b>|
+
+#### Подключаемся к нашей виртуальной машине
+
+|<img src="screens/1_2.png">|
+|:--:|
+|<b>Img. 1.3 - Окно MobaXterm</b>|
+
+#### Устанавливаем MySQL server
+
+|<img src="screens/1_3.png">|
+|:--:|
+|<b>Img. 1.3 - Установка MySQL server</b>|
+||
+|<img src="screens/1_4.png">|
+|<b>Img. 1.3 - Версия MySQL server</b>|
 
 ## 3.Select a subject area anddescribe the database schema,(minimum 3 tables)
 
@@ -37,7 +57,7 @@
 
 ## 14.Connect to your database.
 
-## 15.Execute SELECToperatorsimilarstep6.
+## 15.Execute SELECT operator similar step6.
 
 ## 16.Create thedumpof yourdatabase.
 
