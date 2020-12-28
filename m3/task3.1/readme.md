@@ -2,37 +2,19 @@
 
 ## PART 1
 
-## 1.DownloadMySQL server for your OS on VM.
-
-<style>
-figure.img {
-  margin: 0;
-  text-align: center;
-}
-figure.img img {  /* изображение уменьшается пропорционально экрану браузера */
-  max-width: 100%;
-  height: auto;
-}
-figure.img figcaption {  /* стиль описания */
-  padding: 0 1%;
-  font: italic 90% Georgia,serif;
-}
-body {
-  counter-reset: figures;
-}
-figure.img figcaption {
-  counter-increment: figures;
-}
-figure.img figcaption:before {
-  content: 'Img.' counter(figures) ' ';
-}
-</style>
+## 1.Download MySQL server for your OS on VM.
+<!DOCTYPE html>
+<html>
+<head>
+   <link rel="stylesheet" href="main.css">
+</head>
 <body>
 <figure class="img">
-    <img alt="котёнок мечтает стать львом" src="screens/1.png" height="400" width="302">
+    <img alt="котёнок мечтает стать львом" src="screens/1.png">
     <figcaption>Когда-нибудь котёнок выберется из лужи</figcaption>
 </figure>
 </body>
+</html>
 
 ## 2.Install MySQL server on VM.
 
