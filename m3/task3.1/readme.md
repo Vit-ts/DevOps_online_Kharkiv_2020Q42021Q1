@@ -4,10 +4,9 @@
 
 ## 1.Download MySQL server for your OS on VM.
 
-
-|<img alt="котёнок мечтает стать львом" src="screens/1.png">|
+|<img src="screens/1.png">|
 |:--:|
-|<figcaption>Img. 1.1 - Did something</figcaption>|
+|<b>Img. 1.1 - Я сделал чтото особенное и поэтому мне нужно это исправить сейчасже понтя бдлы вм</b>|
 
 
 ## 2.Install MySQL server on VM.
