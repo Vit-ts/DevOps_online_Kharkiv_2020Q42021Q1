@@ -3,19 +3,12 @@
 ## PART 1
 
 ## 1.Download MySQL server for your OS on VM.
-<!DOCTYPE html>
-<html>
-<head>
-   <link rel="stylesheet" href="main.css">
-</head>
-<body>
-<figure class="img">
+<center>
+<figure style="align: center;">
     <img alt="котёнок мечтает стать львом" src="screens/1.png">
-    <figcaption>Когда-нибудь котёнок выберется из лужи</figcaption>
+    <figcaption>Когда-нибуд vfvjndfvjkdf vdvjdnvjdfnvj dfvь котёнок выберется из лужи</figcaption>
 </figure>
-</body>
-</html>
-
+</center>
 ## 2.Install MySQL server on VM.
 
 ## 3.Select a subject area anddescribe the database schema,(minimum 3 tables)
