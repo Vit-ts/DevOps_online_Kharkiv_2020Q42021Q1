@@ -164,8 +164,8 @@
     LEFT JOIN product p ON p.id = cp.product_id
     GROUP BY c.name
     ORDER BY order_price;
-``
-`
+```
+
 | <img src = "screens/6_5.png"> |
 |:--:|
 | <b> Img. 6.5 - grouped and sorted table with names and order amount </b> |
