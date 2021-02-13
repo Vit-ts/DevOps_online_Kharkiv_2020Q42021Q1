@@ -97,3 +97,7 @@ Error 404 is the standard HTTP response code indicating that the client was able
 | <img src = "screens/8_2.png"> |
 |        <b> Img.3.1</b>        |
 
+| <img src = "screens/8_3.png"> |
+| :---------------------------: |
+| <img src = "screens/8_4.png"> |
+|        <b> Img.3.1</b>        |
