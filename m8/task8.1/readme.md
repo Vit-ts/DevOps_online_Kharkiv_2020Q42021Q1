@@ -97,6 +97,6 @@ More detailed: choose the content part for your final task (simple web page, web
 |                                      <img src = "screens/5_3.png">                                      |
 | <b> Img.4.1 - Console output the Deploy-to-VM3 job manual to the console (running by an SCM change)</b> |
 |                                      <img src = "screens/5_4.png">                                      |
-|                            <b> Img.4.1 - new CV 192.168.0.101 (VM2-test)</b>                            |
+|                            <b> Img.4.1 - new CV 192.168.0.101 (VM2-Test)</b>                            |
 |                                      <img src = "screens/5_5.png">                                      |
-|                            <b> Img.4.1 - new CV 192.168.0.101 (VM2-test)</b>                            |
+|                            <b> Img.4.1 - new CV 192.168.0.102 (VM3-Prod)</b>                            |
