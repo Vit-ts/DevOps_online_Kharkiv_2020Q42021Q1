@@ -8,6 +8,8 @@
 
 ### 2\* Make unit tests for your new FizzBuzz function.
 
-### 3. Develop count_vowels function for counting vowels in input text. Example of usage: count_vowels(annnmemmmtlo) = 3; count_vowels(kj js)=0
+### 3. Develop count_vowels function for counting vowels in input text. 
 
-[The solution to the task (file .ipynb)](python_task.ipynb)
+Example of usage: count_vowels(annnmemmmtlo) = 3; count_vowels(kj js)=0
+
+## [Click on the link to see the solution to the task  (file python_task.ipynb)](python_task.ipynb)
